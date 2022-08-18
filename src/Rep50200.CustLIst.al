@@ -18,7 +18,7 @@ report 50200 "Cust LIst"
             column(Name; Name)
             {
             }
-            column(Name2; "Name 2")
+            column(Name2; "Name 2") //Added a comment tko the reprot
             {
             }
             column(Address; Address)
