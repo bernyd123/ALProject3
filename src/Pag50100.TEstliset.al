@@ -15,7 +15,7 @@ page 50200 "TEst liset"
                 field("code"; Rec."code")
                 {
                     ApplicationArea = All;
-                    ToolTip = 'Specifies the value of the code field.';
+                    ToolTip = 'Specifies the value of the code field.'; //REMember to do something
                 }
                 field(name; Rec.name)
                 {
