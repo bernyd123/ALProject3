@@ -11,7 +11,7 @@ pageextension 50200 CustomerListExt extends "Customer List"
             action(CustREport)
             {
                 ApplicationArea = All;
-                ToolTip = 'Run the demo report.';
+                ToolTip = 'Run the demo report to show the user.';
                 RunObject = report "Cust LIst";
                 Promoted = true;
                 PromotedCategory = New;
